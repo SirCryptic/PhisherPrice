@@ -94,5 +94,7 @@ https://www.shodan.io
 <p align="center">  ⭐ SirCrypic, phisherprice - Version: ALPHA</p>
 
   <h1 align="center"> Foot Notes</h1>
-  
-This tool also works on termux as expected since it is based on bash (i do aim for cross platform 🙋‍♂️✅) , but i assume and expect limited functionality , your more than welcome to pull a issue request regarding os & or function and i will try my best to get back to you & or update the tool if there is enough interest.
+
+This Repository Will Be Archived and no further updates will be made availble as of 03/01/2025.
+
+This tool also works on termux as expected since it is based on bash (i do aim for cross platform 🙋‍♂️✅) , but i assume and expect limited functionality...
